@@ -1,24 +1,17 @@
 body{
-    background-color: #202A44;
+    background-color: #E0FFFF;
 }
 
-.heading{
-    color: aliceblue;
+#header{
+    background-color: #2E8B57;
+    color: #FFEFD5;
+    text-align: center;
 }
 
-.btn{
-    color:aliceblue;
-    margin:2px;
-}
-
-.flex-container{
+#AlgorithmSpecificControls{
     display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
-#new-array{
-   margin-left: 0;
-}
 
 
